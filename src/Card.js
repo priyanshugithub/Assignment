@@ -14,7 +14,7 @@ const Example = (props) => {
         </CardBody>
       </Card>
     </div>
-  );
-};
+  )
+}
 
 export default Example;
